@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
