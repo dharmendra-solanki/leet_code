@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
+| [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/dharmendra-solanki/leet_code/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -69,10 +70,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dharmendra-solanki/leet_code/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dharmendra-solanki/leet_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dharmendra-solanki/leet_code/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
