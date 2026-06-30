@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/dharmendra-solanki/leet_code/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/dharmendra-solanki/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/dharmendra-solanki/leet_code/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dharmendra-solanki/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/dharmendra-solanki/leet_code/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
