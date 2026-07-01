@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharmendra-solanki/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dharmendra-solanki/leet_code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dharmendra-solanki/leet_code/tree/master/0067-add-binary) |
+| [3692-majority-frequency-characters](https://github.com/dharmendra-solanki/leet_code/tree/master/3692-majority-frequency-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dharmendra-solanki/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
+| [3692-majority-frequency-characters](https://github.com/dharmendra-solanki/leet_code/tree/master/3692-majority-frequency-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
+## Counting
+|  |
+| ------- |
+| [3692-majority-frequency-characters](https://github.com/dharmendra-solanki/leet_code/tree/master/3692-majority-frequency-characters) |
 <!---LeetCode Topics End-->
