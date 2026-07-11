@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/dharmendra-solanki/leet_code/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/dharmendra-solanki/leet_code/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/dharmendra-solanki/leet_code/tree/master/1765-map-of-highest-peak) |
 | [2951-find-the-peaks](https://github.com/dharmendra-solanki/leet_code/tree/master/2951-find-the-peaks) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/dharmendra-solanki/leet_code/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/dharmendra-solanki/leet_code/tree/master/1765-map-of-highest-peak) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dharmendra-solanki/leet_code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/dharmendra-solanki/leet_code/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/dharmendra-solanki/leet_code/tree/master/1765-map-of-highest-peak) |
 ## Union-Find
 |  |
 | ------- |
