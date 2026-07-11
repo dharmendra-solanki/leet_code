@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dharmendra-solanki/leet_code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/dharmendra-solanki/leet_code/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/dharmendra-solanki/leet_code/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dharmendra-solanki/leet_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dharmendra-solanki/leet_code/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/dharmendra-solanki/leet_code/tree/master/0994-rotting-oranges) |
 ## Prefix Sum
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/dharmendra-solanki/leet_code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/dharmendra-solanki/leet_code/tree/master/0994-rotting-oranges) |
