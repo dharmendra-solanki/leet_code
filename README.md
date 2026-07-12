@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/dharmendra-solanki/leet_code/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/dharmendra-solanki/leet_code/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dharmendra-solanki/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dharmendra-solanki/leet_code/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dharmendra-solanki/leet_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dharmendra-solanki/leet_code/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/dharmendra-solanki/leet_code/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/dharmendra-solanki/leet_code/tree/master/0994-rotting-oranges) |
@@ -141,11 +143,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/dharmendra-solanki/leet_code/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/dharmendra-solanki/leet_code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/dharmendra-solanki/leet_code/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/dharmendra-solanki/leet_code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/dharmendra-solanki/leet_code/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/dharmendra-solanki/leet_code/tree/master/0547-number-of-provinces) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
