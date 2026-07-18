@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/dharmendra-solanki/leet_code/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dharmendra-solanki/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dharmendra-solanki/leet_code/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/dharmendra-solanki/leet_code/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dharmendra-solanki/leet_code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/dharmendra-solanki/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/dharmendra-solanki/leet_code/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/dharmendra-solanki/leet_code/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/dharmendra-solanki/leet_code/tree/master/0994-rotting-oranges) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/dharmendra-solanki/leet_code/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/dharmendra-solanki/leet_code/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dharmendra-solanki/leet_code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/dharmendra-solanki/leet_code/tree/master/1020-number-of-enclaves) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/dharmendra-solanki/leet_code/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/dharmendra-solanki/leet_code/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/dharmendra-solanki/leet_code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/dharmendra-solanki/leet_code/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/dharmendra-solanki/leet_code/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dharmendra-solanki/leet_code/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/dharmendra-solanki/leet_code/tree/master/1020-number-of-enclaves) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
