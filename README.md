@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharmendra-solanki/leet_code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/dharmendra-solanki/leet_code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dharmendra-solanki/leet_code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dharmendra-solanki/leet_code/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dharmendra-solanki/leet_code/tree/master/0033-search-in-rotated-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dharmendra-solanki/leet_code/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dharmendra-solanki/leet_code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dharmendra-solanki/leet_code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dharmendra-solanki/leet_code/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharmendra-solanki/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
