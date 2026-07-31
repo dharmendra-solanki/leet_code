@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/dharmendra-solanki/leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/dharmendra-solanki/leet_code/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/dharmendra-solanki/leet_code/tree/master/0994-rotting-oranges) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
+| [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/dharmendra-solanki/leet_code/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0137-single-number-ii) |
+| [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dharmendra-solanki/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3692-majority-frequency-characters](https://github.com/dharmendra-solanki/leet_code/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
