@@ -13,7 +13,7 @@ public:
             maxi = max(maxi , nums[i]);
         }
         for(int i=mini; i<maxi; i++){
-            if(st.count(i) == 0){
+            if(st.find(i) == st.end()){
                 ans.push_back(i);
             }
         }
