@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dharmendra-solanki/leet_code/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/dharmendra-solanki/leet_code/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/dharmendra-solanki/leet_code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dharmendra-solanki/leet_code/tree/master/0067-add-binary) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3692-majority-frequency-characters](https://github.com/dharmendra-solanki/leet_code/tree/master/3692-majority-frequency-characters) |
 ## String Matching
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/dharmendra-solanki/leet_code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -234,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
