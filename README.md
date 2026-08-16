@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
 | [1765-map-of-highest-peak](https://github.com/dharmendra-solanki/leet_code/tree/master/1765-map-of-highest-peak) |
+| [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dharmendra-solanki/leet_code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2951-find-the-peaks](https://github.com/dharmendra-solanki/leet_code/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dharmendra-solanki/leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dharmendra-solanki/leet_code/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
+| [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dharmendra-solanki/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
+| [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 | [3692-majority-frequency-characters](https://github.com/dharmendra-solanki/leet_code/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -248,16 +252,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -274,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dharmendra-solanki/leet_code/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
