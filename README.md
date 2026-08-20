@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/dharmendra-solanki/leet_code/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dharmendra-solanki/leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dharmendra-solanki/leet_code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dharmendra-solanki/leet_code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dharmendra-solanki/leet_code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/dharmendra-solanki/leet_code/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/dharmendra-solanki/leet_code/tree/master/0067-add-binary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
