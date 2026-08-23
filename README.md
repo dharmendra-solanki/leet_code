@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/dharmendra-solanki/leet_code/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/dharmendra-solanki/leet_code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dharmendra-solanki/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/dharmendra-solanki/leet_code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dharmendra-solanki/leet_code/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0179-largest-number) |
+| [1927-sum-game](https://github.com/dharmendra-solanki/leet_code/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dharmendra-solanki/leet_code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dharmendra-solanki/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/dharmendra-solanki/leet_code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dharmendra-solanki/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/dharmendra-solanki/leet_code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
