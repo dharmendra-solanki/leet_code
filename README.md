@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/dharmendra-solanki/leet_code/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
 | [1765-map-of-highest-peak](https://github.com/dharmendra-solanki/leet_code/tree/master/1765-map-of-highest-peak) |
+| [1872-stone-game-viii](https://github.com/dharmendra-solanki/leet_code/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dharmendra-solanki/leet_code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2951-find-the-peaks](https://github.com/dharmendra-solanki/leet_code/tree/master/2951-find-the-peaks) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/dharmendra-solanki/leet_code/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dharmendra-solanki/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/dharmendra-solanki/leet_code/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/dharmendra-solanki/leet_code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dharmendra-solanki/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/dharmendra-solanki/leet_code/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/dharmendra-solanki/leet_code/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/dharmendra-solanki/leet_code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -284,12 +289,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/dharmendra-solanki/leet_code/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/dharmendra-solanki/leet_code/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
