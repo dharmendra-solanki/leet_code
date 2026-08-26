@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dharmendra-solanki/leet_code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dharmendra-solanki/leet_code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dharmendra-solanki/leet_code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/dharmendra-solanki/leet_code/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dharmendra-solanki/leet_code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3692-majority-frequency-characters](https://github.com/dharmendra-solanki/leet_code/tree/master/3692-majority-frequency-characters) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/dharmendra-solanki/leet_code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/dharmendra-solanki/leet_code/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
