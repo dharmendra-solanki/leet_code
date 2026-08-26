@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/dharmendra-solanki/leet_code/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+| [1748-sum-of-unique-elements](https://github.com/dharmendra-solanki/leet_code/tree/master/1748-sum-of-unique-elements) |
 | [1765-map-of-highest-peak](https://github.com/dharmendra-solanki/leet_code/tree/master/1765-map-of-highest-peak) |
 | [1872-stone-game-viii](https://github.com/dharmendra-solanki/leet_code/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/dharmendra-solanki/leet_code/tree/master/1386-cinema-seat-allocation) |
+| [1748-sum-of-unique-elements](https://github.com/dharmendra-solanki/leet_code/tree/master/1748-sum-of-unique-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dharmendra-solanki/leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dharmendra-solanki/leet_code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dharmendra-solanki/leet_code/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
+| [1748-sum-of-unique-elements](https://github.com/dharmendra-solanki/leet_code/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 | [3692-majority-frequency-characters](https://github.com/dharmendra-solanki/leet_code/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
