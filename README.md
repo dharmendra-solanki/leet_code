@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/dharmendra-solanki/leet_code/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dharmendra-solanki/leet_code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1748-sum-of-unique-elements](https://github.com/dharmendra-solanki/leet_code/tree/master/1748-sum-of-unique-elements) |
 | [1765-map-of-highest-peak](https://github.com/dharmendra-solanki/leet_code/tree/master/1765-map-of-highest-peak) |
 | [1872-stone-game-viii](https://github.com/dharmendra-solanki/leet_code/tree/master/1872-stone-game-viii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dharmendra-solanki/leet_code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dharmendra-solanki/leet_code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/dharmendra-solanki/leet_code/tree/master/3731-find-missing-elements) |
 ## Two Pointers
