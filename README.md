@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dharmendra-solanki/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dharmendra-solanki/leet_code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dharmendra-solanki/leet_code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3692-majority-frequency-characters](https://github.com/dharmendra-solanki/leet_code/tree/master/3692-majority-frequency-characters) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dharmendra-solanki/leet_code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3692-majority-frequency-characters](https://github.com/dharmendra-solanki/leet_code/tree/master/3692-majority-frequency-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dharmendra-solanki/leet_code/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dharmendra-solanki/leet_code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/dharmendra-solanki/leet_code/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/dharmendra-solanki/leet_code/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 | [3692-majority-frequency-characters](https://github.com/dharmendra-solanki/leet_code/tree/master/3692-majority-frequency-characters) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dharmendra-solanki/leet_code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/dharmendra-solanki/leet_code/tree/master/2951-find-the-peaks) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/dharmendra-solanki/leet_code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Depth-First Search
 |  |
 | ------- |
