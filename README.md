@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dharmendra-solanki/leet_code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/dharmendra-solanki/leet_code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/dharmendra-solanki/leet_code/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/dharmendra-solanki/leet_code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/dharmendra-solanki/leet_code/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/dharmendra-solanki/leet_code/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/dharmendra-solanki/leet_code/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/dharmendra-solanki/leet_code/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dharmendra-solanki/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
