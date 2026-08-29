@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dharmendra-solanki/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/dharmendra-solanki/leet_code/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharmendra-solanki/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/dharmendra-solanki/leet_code/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/dharmendra-solanki/leet_code/tree/master/0058-length-of-last-word) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/dharmendra-solanki/leet_code/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/dharmendra-solanki/leet_code/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/dharmendra-solanki/leet_code/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/dharmendra-solanki/leet_code/tree/master/0067-add-binary) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dharmendra-solanki/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/dharmendra-solanki/leet_code/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/dharmendra-solanki/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
