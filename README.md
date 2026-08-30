@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/dharmendra-solanki/leet_code/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/dharmendra-solanki/leet_code/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dharmendra-solanki/leet_code/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dharmendra-solanki/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2951-find-the-peaks](https://github.com/dharmendra-solanki/leet_code/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dharmendra-solanki/leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dharmendra-solanki/leet_code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dharmendra-solanki/leet_code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dharmendra-solanki/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dharmendra-solanki/leet_code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/dharmendra-solanki/leet_code/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dharmendra-solanki/leet_code/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/dharmendra-solanki/leet_code/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/dharmendra-solanki/leet_code/tree/master/1020-number-of-enclaves) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dharmendra-solanki/leet_code/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dharmendra-solanki/leet_code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
