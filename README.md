@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dharmendra-solanki/leet_code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/dharmendra-solanki/leet_code/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/dharmendra-solanki/leet_code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
