@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/dharmendra-solanki/leet_code/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/dharmendra-solanki/leet_code/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/dharmendra-solanki/leet_code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/dharmendra-solanki/leet_code/tree/master/0486-predict-the-winner) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dharmendra-solanki/leet_code/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/dharmendra-solanki/leet_code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dharmendra-solanki/leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/dharmendra-solanki/leet_code/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/dharmendra-solanki/leet_code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
