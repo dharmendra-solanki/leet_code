@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dharmendra-solanki/leet_code/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/dharmendra-solanki/leet_code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/dharmendra-solanki/leet_code/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dharmendra-solanki/leet_code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dharmendra-solanki/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dharmendra-solanki/leet_code/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dharmendra-solanki/leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dharmendra-solanki/leet_code/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dharmendra-solanki/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dharmendra-solanki/leet_code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dharmendra-solanki/leet_code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dharmendra-solanki/leet_code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/dharmendra-solanki/leet_code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/dharmendra-solanki/leet_code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/dharmendra-solanki/leet_code/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/dharmendra-solanki/leet_code/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dharmendra-solanki/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -206,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dharmendra-solanki/leet_code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dharmendra-solanki/leet_code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/dharmendra-solanki/leet_code/tree/master/1386-cinema-seat-allocation) |
