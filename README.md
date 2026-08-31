@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/dharmendra-solanki/leet_code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/dharmendra-solanki/leet_code/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/dharmendra-solanki/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dharmendra-solanki/leet_code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dharmendra-solanki/leet_code/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/dharmendra-solanki/leet_code/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/dharmendra-solanki/leet_code/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/dharmendra-solanki/leet_code/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dharmendra-solanki/leet_code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dharmendra-solanki/leet_code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/dharmendra-solanki/leet_code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/dharmendra-solanki/leet_code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/dharmendra-solanki/leet_code/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/dharmendra-solanki/leet_code/tree/master/1386-cinema-seat-allocation) |
