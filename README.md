@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/dharmendra-solanki/leet_code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dharmendra-solanki/leet_code/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/dharmendra-solanki/leet_code/tree/master/0290-word-pattern) |
 | [1927-sum-game](https://github.com/dharmendra-solanki/leet_code/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dharmendra-solanki/leet_code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dharmendra-solanki/leet_code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dharmendra-solanki/leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/dharmendra-solanki/leet_code/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/dharmendra-solanki/leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/dharmendra-solanki/leet_code/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/dharmendra-solanki/leet_code/tree/master/1386-cinema-seat-allocation) |
