@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dharmendra-solanki/leet_code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/dharmendra-solanki/leet_code/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/dharmendra-solanki/leet_code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dharmendra-solanki/leet_code/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/dharmendra-solanki/leet_code/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/dharmendra-solanki/leet_code/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
