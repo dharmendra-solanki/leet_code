@@ -6,16 +6,16 @@ public:
         if (n < 3)
             return 0;
 
-        for (int i = 0; i < n; i++) {
-            if (digits[i] == 0)
+        for (int h = 0; h < n; h++) {
+            if (digits[h] == 0)
                 continue;
-            for (int j = 0; j < n; j++) {
-                if(i == j) continue;
-                for(int k=0; k<n; k++){
-                    if(k == i || k == j) continue;
-                    if(digits[k] % 2 != 0) continue;
+            for (int t = 0; t < n; t++) {
+                if(h == t) continue;
+                for(int u=0; u<n; u++){
+                    if(u == h || u == t) continue;
+                    if(digits[u] % 2 != 0) continue;
 
-                    int num = digits[i]*100+digits[j]*10+digits[k];
+                    int num = digits[h]*100+digits[t]*10+digits[u];
                     seen.insert(num);
                 }
             }
