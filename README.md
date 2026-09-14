@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/dharmendra-solanki/leet_code/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/dharmendra-solanki/leet_code/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/dharmendra-solanki/leet_code/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/dharmendra-solanki/leet_code/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dharmendra-solanki/leet_code/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
@@ -461,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dharmendra-solanki/leet_code/tree/master/1015-smallest-integer-divisible-by-k) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/dharmendra-solanki/leet_code/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
