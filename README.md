@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dharmendra-solanki/leet_code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dharmendra-solanki/leet_code/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/dharmendra-solanki/leet_code/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/dharmendra-solanki/leet_code/tree/master/0118-pascals-triangle) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dharmendra-solanki/leet_code/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/dharmendra-solanki/leet_code/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/dharmendra-solanki/leet_code/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/dharmendra-solanki/leet_code/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/dharmendra-solanki/leet_code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/dharmendra-solanki/leet_code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/dharmendra-solanki/leet_code/tree/master/0202-happy-number) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dharmendra-solanki/leet_code/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dharmendra-solanki/leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Memoization
 |  |
