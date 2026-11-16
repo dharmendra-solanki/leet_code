@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/dharmendra-solanki/leet_code/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/dharmendra-solanki/leet_code/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/dharmendra-solanki/leet_code/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/dharmendra-solanki/leet_code/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/dharmendra-solanki/leet_code/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/dharmendra-solanki/leet_code/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/dharmendra-solanki/leet_code/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/dharmendra-solanki/leet_code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dharmendra-solanki/leet_code/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/dharmendra-solanki/leet_code/tree/master/1872-stone-game-viii) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dharmendra-solanki/leet_code/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/dharmendra-solanki/leet_code/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dharmendra-solanki/leet_code/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/dharmendra-solanki/leet_code/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/dharmendra-solanki/leet_code/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/dharmendra-solanki/leet_code/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/dharmendra-solanki/leet_code/tree/master/1765-map-of-highest-peak) |
